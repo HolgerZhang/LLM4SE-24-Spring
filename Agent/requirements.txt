@@ -1,0 +1,5 @@
+json5~=0.9.25
+qwen-agent
+gradio>=4.0
+modelscope-studio>=0.2.1
+json5~=0.9.25
